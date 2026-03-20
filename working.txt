@@ -1,3 +1,7 @@
+profile-title: "Моя коллекция VPN"
+profile-update-interval: "12"  # обновление каждые 12 часов
+subscription-userinfo: "upload=0; download=0; total=5000000000000"  # 5 ТБ трафика
+
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@chatgpt.com:2053?path=%2F3PvwrvEqporAUTYq%2FMTQ0LjI0LjI0My4yMDc%3Fed%3D2053&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=BpB241.gaNIJoV670.WOrkErs.dev.&fp=chrome&type=ws&sni=Bpb241.gaNijoV670.WOrkers.Dev.#%5BOpenRay%5D%20Dynamic-11354
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@dabaius2.sylu.net:443?encryption=none&security=tls&sni=dabaius2.sylu.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=dabaius2.sylu.net&path=%2Fdb10240eb751d6ab#%5BOpenRay%5D%20Dynamic-10797
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&alpn=h2,http/1.1&type=ws&path=/assignment#%5BOpenRay%5D%20Dynamic-11646
