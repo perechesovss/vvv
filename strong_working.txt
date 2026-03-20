@@ -1,3 +1,7 @@
+profile-title: "Моя коллекция VPN"
+profile-update-interval: "12"  # обновление каждые 12 часов
+subscription-userinfo: "upload=0; download=0; total=5000000000000"  # 5 ТБ трафика
+
 vless://7b55e08d-0ec9-44d0-95a6-1b51fd472658@chatgpt.com:443?path=/eyJqdW5rIjoieUc3Z2pOc0t1dTVtRXciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&encryption=none&host=quiet-cake-3b50.hegamo9231.workers.dev&fp=chrome&type=ws&sni=QUiET-CaKE-3B50.heGamo9231.wOrkErs.dEv#%5BOpenRay%5D%20Dynamic-12550
 vless://17a0304a-f972-42c1-9c66-2fdf977804d3@chatgpt.com:443?encryption=none&security=tls&sni=COLD-mEADOW-c530.kANEkIKOOOn18-6821.WorKERs.DEv&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=COLD-mEADOW-c530.kANEkIKOOOn18-6821.WorKERs.DEv&path=%2FeyJqdW5rIjoia0JSSDZLUVdwNFVVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#%5BOpenRay%5D%20Dynamic-13408
 vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@chatgpt.com:2052?path=%2F&security=none&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.&type=ws#%5BOpenRay%5D%20Dynamic-15212
